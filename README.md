@@ -62,5 +62,4 @@ The system uses JWT-based authentication. Users must be registered and authentic
 - **Email:** `admin@vendorsync.com`
 - **Password:** `password123`
 
-## 📄 License
-This project is licensed under the UNLICENSED license.
+
